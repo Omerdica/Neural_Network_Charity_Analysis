@@ -2,7 +2,7 @@
 
 
 # Overview
-In this project we are using machiner learning and nueral networks to help Belks figure out if the applicants will be funded by Alphabet Soup. We were provided a CSV file that cointains 34,000 organizations that have recieved funding from the Alphabet Soup buissness team. Our goal will be to reachabove 75% accuracy succes rate for the investment.
+In this project we are using machiner learning and neural network to help Belks figure out if the applicants will be funded by Alphabet Soup. We were provided a CSV file that cointains 34,000 organizations that have recieved funding from the Alphabet Soup buissness team. Our goal will be to reach above 75% accuracy succes rate for the investment.
 
 # Results
 ### Proccesing the Data
@@ -32,4 +32,4 @@ On attempt 3 we were able to reach 72%. We changed Application_Type values from 
 
 # Summary
 
-After many attempts it seemd that 72% was the highest we could reach. We did not meet our 75% goal but we did lower the loos with attempt 3.
+After many attempts it seemd that 72% was the highest we could reach. We did not meet our 75% goal but we did lower the loss with attempt 3 down to 56%. 
